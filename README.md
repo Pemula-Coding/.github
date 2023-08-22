@@ -10,7 +10,7 @@
 ### Rules
 Aturan yang harus di taati
 
--[Masih Dibuat]
+- [Masih Dibuat]
 
 ---
 
