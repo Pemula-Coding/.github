@@ -1,4 +1,4 @@
-<p align="center"><img src="sepuh.jpg"></p>
+<p align="center"><img src="./Media/sepuh.jpg"></p>
 
 ---
 
