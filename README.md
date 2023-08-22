@@ -10,7 +10,9 @@
 ### Rules
 Aturan yang harus di taati
 
-- [Masih Dibuat]
+- Kerja keras
+- Jangan Plagiat
+- Utamakan Salam
 
 ---
 
