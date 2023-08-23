@@ -12,7 +12,7 @@ Aturan yang harus di taati
 
 - Kerja keras
 - Jangan Plagiat
-- Utamakan Salam
+- Member adalah raja
 
 ---
 
